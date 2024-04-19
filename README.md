@@ -11,3 +11,13 @@
 ## Deliverables:
 ### A Jupyter notebook or Python script with the code for data preprocessing, model training, and evaluation.
 ### A report summarizing the methodology, model performance, and insights gained from the analysis.
+#
+#
+#
+# Report
+## CNN: Convolutional Neural Network is a special kind of neural network used for processin data that has a known grid-like topology like image.
+## CNN has three main layers:
+### 1. Convolution layer: extract features. (note: it is location dependent)
+### 2. Poolin layer: location independent
+### 3. Fully connected layer: just like ANN
+
