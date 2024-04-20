@@ -21,7 +21,7 @@
 ### 2. Poolin layer: location independent
 ### 3. Fully connected layer: just like ANN
 #
-#### Please go trough the belove link and com back to README.md
+#### Please go trough the belove link and come back to README.md
 https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/blob/main/Cat_vs_Dog_Classification_using_CNN.ipynb
 
 #### You can see that, overfitting is happening.
@@ -35,4 +35,3 @@ https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/blob/main/Cat_vs
 ##### I have used Droupout and Batch Normalization to reduce overfitting. please go through the belove link.
 https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/blob/main/Cat_vs_Dog_Classification_using_CNN(1).ipynb
 
-### The complete coding is shown in the link provided below.
