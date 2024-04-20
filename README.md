@@ -35,4 +35,4 @@ https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/blob/main/Cat_vs
 ##### I have used Droupout and Batch Normalization to reduce overfitting. please go through the belove link.
 https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/blob/main/Cat_vs_Dog_Classification_using_CNN(1).ipynb
 
-### The complete working is shown in the link provided below.
+### The complete coding is shown in the link provided below.
