@@ -14,7 +14,7 @@
 #
 #
 #
-# Report
+# Explanation
 ## CNN: Convolutional Neural Network is a special kind of neural network used for processing data that has a known grid-like topology like image.
 ## CNN has three main layers:
 ### 1. Convolution layer: extract features. (note: it is location dependent)
