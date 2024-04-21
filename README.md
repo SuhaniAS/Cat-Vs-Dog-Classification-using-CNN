@@ -15,12 +15,45 @@
 #
 #
 # Report
-## CNN: Convolutional Neural Network is a special kind of neural network used for processin data that has a known grid-like topology like image.
+## CNN: Convolutional Neural Network is a special kind of neural network used for processing data that has a known grid-like topology like image.
 ## CNN has three main layers:
 ### 1. Convolution layer: extract features. (note: it is location dependent)
-### 2. Poolin layer: location independent
+### 2. Pooling layer: location independent
 ### 3. Fully connected layer: just like ANN
 #
+#
+### Now lets begin.
+####### I am taking the data directly from kaggle website: **https://www.kaggle.com/datasets/salader/dogs-vs-cats**
+####### Before uploading the dataset, we will have to run some codes after uploading kaggle.json file.
+**!mkdir -p ~/.kaggle
+  !cp kaggle.json ~/.kaggle/**
+####### Once the above code is executed, copy the API command from kagle website and paste is accordingly.
+**!kaggle datasets download -d salader/dogs-vs-cats**
+####### Now the dataset is in the zipfile format. To unzip, we use te following command:
+**from zipfile import ZipFile
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Please go trough the belove link and come back to README.md
 https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/blob/main/Cat_vs_Dog_Classification_using_CNN.ipynb
 
