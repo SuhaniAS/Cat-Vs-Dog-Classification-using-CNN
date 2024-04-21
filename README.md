@@ -1,7 +1,7 @@
 # Cat-Vs-Dog-Classification-using-CNN
 
 ## Objective:
-### Develop a machine learning model that can classify images into two categories: 'cat' and 'dog'.
+### Develop a machine learning or deep learning model that can classify images into two categories: 'cat' and 'dog'.
 #
 ## Tasks:
 ### 1. Select a dataset that includes images of cats and dogs labelled as 0 and 1 or 'cats' and 'dogs'.
