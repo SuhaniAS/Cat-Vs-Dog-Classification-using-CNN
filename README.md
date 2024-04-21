@@ -36,8 +36,8 @@
 ###### Normalize the data
 ![Screenshot 2024-04-21 212502](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/7c0582d4-6f73-4b63-b449-c69189e6657a)
 ##### Build the CNN model using the following library
-**from keras import Sequential
-  from keras.layers import Dense, Conv2D, MaxPooling2D, Flatten**
+#### **from keras import Sequential
+####  from keras.layers import Dense, Conv2D, MaxPooling2D, Flatten**
 ![Screenshot 2024-04-21 212809](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/01f85a3e-fea9-4ccf-bac7-c8f8d9f450c5)
 ##### Now compile and fir the model
 ![Screenshot 2024-04-21 212950](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/11f57d98-4dd3-4b66-bc46-0f0c28fcc69c)
