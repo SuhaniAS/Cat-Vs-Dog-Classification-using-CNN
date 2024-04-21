@@ -23,8 +23,8 @@
 #
 #
 ### Now lets begin.
-####### I am taking the data directly from kaggle website: **https://www.kaggle.com/datasets/salader/dogs-vs-cats**
-####### Before uploading the dataset, we will have to run some codes after uploading kaggle.json file.
+###### I am taking the data directly from kaggle website: **https://www.kaggle.com/datasets/salader/dogs-vs-cats**
+###### Before uploading the dataset, we will have to run some codes after uploading kaggle.json file.
 **!mkdir -p ~/.kaggle
   !cp kaggle.json ~/.kaggle/**
 ####### Once the above code is executed, copy the API command from kagle website and paste is accordingly.
