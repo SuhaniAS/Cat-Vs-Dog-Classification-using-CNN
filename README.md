@@ -58,17 +58,18 @@
 ##### 5. Reduce complexity
 #
 ##### In this case, I have used *Dropout* and *BatchNormalization*.
-![Screenshot 2024-04-21 213943](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/9af676bf-845d-4870-91ac-f3ac28356756)
-![Screenshot 2024-04-21 214014](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/d3b2cbb7-bb58-418c-a420-69a19023498d)
-![Screenshot 2024-04-21 214036](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/d558188c-896a-49bd-bf69-d1f68e4d9fd2)
-![Screenshot 2024-04-21 214113](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/b70833c2-aed6-4edf-bde6-027ff6b9a04b)
-![Screenshot 2024-04-21 214127](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/cb4b3598-b59c-4b78-b4ab-91429b8878f8)
-![Screenshot 2024-04-21 214210](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/62461079-d419-4786-a9b3-0ffc3f1472d6)
-![Screenshot 2024-04-21 214227](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/afa998ee-9609-41b0-9fcd-ee8b41ed6da5)
+# ![Screenshot 2024-04-21 213943](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/9af676bf-845d-4870-91ac-f3ac28356756)
+# ![Screenshot 2024-04-21 214014](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/d3b2cbb7-bb58-418c-a420-69a19023498d)
+# ![Screenshot 2024-04-21 214036](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/d558188c-896a-49bd-bf69-d1f68e4d9fd2)
+# ![Screenshot 2024-04-21 214113](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/b70833c2-aed6-4edf-bde6-027ff6b9a04b)
+# ![Screenshot 2024-04-21 214127](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/cb4b3598-b59c-4b78-b4ab-91429b8878f8)
+# ![Screenshot 2024-04-21 214210](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/62461079-d419-4786-a9b3-0ffc3f1472d6)
+# ![Screenshot 2024-04-21 214227](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/afa998ee-9609-41b0-9fcd-ee8b41ed6da5)
 ##### **We can see the that the overfitting has reduced**
+##### **We can use Data Augmentation method also, by which the accuracy of the model increases.**
 ##### Now we will predict for an unknown data
-![Screenshot 2024-04-21 214356](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/fd60ea67-eda3-43fc-bd9d-ba8c391ba3d3)
-![Screenshot 2024-04-21 214407](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/3dd44282-b755-487e-adb4-d454817c4d78)
-![Screenshot 2024-04-21 214417](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/53530267-bba2-41aa-9e96-5e6dd02e5a41)
-![Screenshot 2024-04-21 214427](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/341f1c84-e3bd-41c9-8417-f81a9a9aa6bf)
+# ![Screenshot 2024-04-21 214356](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/fd60ea67-eda3-43fc-bd9d-ba8c391ba3d3)
+# ![Screenshot 2024-04-21 214407](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/3dd44282-b755-487e-adb4-d454817c4d78)
+# ![Screenshot 2024-04-21 214417](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/53530267-bba2-41aa-9e96-5e6dd02e5a41)
+# ![Screenshot 2024-04-21 214427](https://github.com/SuhaniAS/Cat-Vs-Dog-Classification-using-CNN/assets/137792301/341f1c84-e3bd-41c9-8417-f81a9a9aa6bf)
 **Thus the model has predicted the image as 1 (i.e., dog)**
