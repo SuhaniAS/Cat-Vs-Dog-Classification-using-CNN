@@ -51,7 +51,7 @@
 #
 ##### We have multiple ways to avoid overfitting.
 ##### Some of them are:
-##### 1. Increace te data size.
+##### 1. Increase Data Size (or) Data Augmentation
 ##### 2. Droupout method
 ##### 3. L1/L2 regularization
 ##### 4. BatchNormalization
